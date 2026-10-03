@@ -11,7 +11,15 @@ A beginner-friendly Python project that reviews fictional supplier shipment data
 
 ## Run it on Mac
 
-Open Terminal in this project folder. Turn on the project's Python workspace, then run the script:
+Open Terminal in this project folder. Create the project's private Python workspace and install its packages once:
+
+```sh
+python3 -m venv .venv
+source .venv/bin/activate
+python -m pip install -r requirements.txt
+```
+
+Whenever you open Terminal again, turn on that workspace and run the script:
 
 ```sh
 source .venv/bin/activate
@@ -25,12 +33,6 @@ python src/inspect_data.py --input data/raw/supplier_deliveries.xlsx
 ```
 
 The workbook's first sheet must use the same column headers as the sample file.
-
-If the packages are not installed yet, first run:
-
-```sh
-python -m pip install -r requirements.txt
-```
 
 ## Reports
 
