@@ -1,0 +1,12 @@
+# Local Python environment and cache
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# macOS files
+.DS_Store
+
+# Generated run history and an old practice export
+reports/report_*.txt
+reports/short_shipments_to_review.csv
