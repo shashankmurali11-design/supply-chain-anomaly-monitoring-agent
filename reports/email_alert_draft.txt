@@ -1,0 +1,26 @@
+Subject: Supply chain shipment review needed
+
+Monitoring run: 2026-10-03_16-30-14
+Review items found: 10
+Please review these shipment and supplier findings:
+
+- SH-1002 | Meridian Metals | Late delivery: 2 days after planned arrival
+  Suggested follow-up: Check carrier status and update the receiving or production plan.
+- SH-1005 | Meridian Metals | Late delivery: 2 days after planned arrival
+  Suggested follow-up: Check carrier status and update the receiving or production plan.
+- SH-1008 | Meridian Metals | Late delivery: 3 days after planned arrival
+  Suggested follow-up: Check carrier status and update the receiving or production plan.
+- SH-1012 | Atlas Bearings | Late delivery: 3 days after planned arrival
+  Suggested follow-up: Check carrier status and update the receiving or production plan.
+- SH-1017 | Meridian Metals | Late delivery: 4 days after planned arrival
+  Suggested follow-up: Check carrier status and update the receiving or production plan.
+- SH-1020 | Meridian Metals | Late delivery: 3 days after planned arrival
+  Suggested follow-up: Check carrier status and update the receiving or production plan.
+- Supplier summary | Meridian Metals | Repeated late-delivery pattern: 5 of 9 shipments late (55.6%)
+  Suggested follow-up: Review the supplier's recent lead-time commitments and recurring delivery delays.
+- SH-1010 | Northstar Components | Short shipment: 3 units missing (2.5% of the order)
+  Suggested follow-up: Check the receiving record and follow up with the supplier.
+- SH-1025 | Northstar Components | Short shipment: 580 units missing (82.9% of the order)
+  Suggested follow-up: Check the receiving record and follow up with the supplier.
+- SH-1026 | Meridian Metals | Unusual unit cost: EUR 7.90 per kg; 146.9% above usual cost
+  Suggested follow-up: Review the purchase order, invoice, and approved price changes.

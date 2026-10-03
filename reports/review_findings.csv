@@ -1,0 +1,11 @@
+shipment_id,supplier,material,finding,details,recommended_follow_up
+SH-1002,Meridian Metals,Aluminium sheet,Late delivery,2 days after planned arrival,Check carrier status and update the receiving or production plan.
+SH-1005,Meridian Metals,Aluminium sheet,Late delivery,2 days after planned arrival,Check carrier status and update the receiving or production plan.
+SH-1008,Meridian Metals,Aluminium sheet,Late delivery,3 days after planned arrival,Check carrier status and update the receiving or production plan.
+SH-1012,Atlas Bearings,Ball bearings,Late delivery,3 days after planned arrival,Check carrier status and update the receiving or production plan.
+SH-1017,Meridian Metals,Aluminium sheet,Late delivery,4 days after planned arrival,Check carrier status and update the receiving or production plan.
+SH-1020,Meridian Metals,Aluminium sheet,Late delivery,3 days after planned arrival,Check carrier status and update the receiving or production plan.
+,Meridian Metals,All materials,Repeated late-delivery pattern,5 of 9 shipments late (55.6%),Review the supplier's recent lead-time commitments and recurring delivery delays.
+SH-1010,Northstar Components,Control valves,Short shipment,3 units missing (2.5% of the order),Check the receiving record and follow up with the supplier.
+SH-1025,Northstar Components,Control valves,Short shipment,580 units missing (82.9% of the order),Check the receiving record and follow up with the supplier.
+SH-1026,Meridian Metals,Aluminium sheet,Unusual unit cost,EUR 7.90 per kg; 146.9% above usual cost,"Review the purchase order, invoice, and approved price changes."
