@@ -1,6 +1,6 @@
 # Supply Chain Anomaly Monitoring Agent
 
-A beginner-friendly Python project that reviews fictional supplier shipment data. It uses Pandas, simple business rules, and a basic statistical check. It does not use AI to decide whether a shipment is wrong; it points out records for a person to review.
+A beginner friendly Python project that reviews fictional supplier shipment data. It uses Pandas, simple business rules, and a basic statistical check. It does not use AI to decide whether a shipment is wrong; it points out records for a person to review.
 
 ## What it checks
 
