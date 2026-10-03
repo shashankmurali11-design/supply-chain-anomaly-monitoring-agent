@@ -1,0 +1,20 @@
+Supply Chain Monitoring Report
+Fictional practice data; findings need human review.
+Data quality checks:
+  Duplicate shipment IDs: 0
+  Blank important fields: 0
+  Rows with impossible quantities or costs: 0
+  Rows with unreadable delivery dates: 0
+Shipments reviewed: 27
+Late shipments: 6
+Late shipments by supplier:
+  Atlas Bearings: 1
+  Meridian Metals: 5
+  Northstar Components: 0
+Short shipments: 2
+  SH-1010: 3 items missing
+  SH-1025: 580 items missing
+Unit cost items to review:
+  SH-1026: Aluminium sheet at EUR 7.90 per kg, 146.9% above the usual cost.
+Statistical cost review candidates (z-score above 2 and at least 10% higher):
+  SH-1026: Aluminium sheet at EUR 7.90 per kg; z-score 2.67, 146.9% above usual cost. Human review needed.
